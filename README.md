@@ -2,7 +2,7 @@
 
 
 > Machine Learning Project to analyze cryptocurrencies sentiment on twitter 🦤
-> The crypto currency chosen were Bitcoin 💰
+> The cryptocurrency chosen were Bitcoin 💰
 
 ## 🗂️ Data Acquisition
 
